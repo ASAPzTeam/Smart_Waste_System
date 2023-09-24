@@ -1,0 +1,2 @@
+Chú ý: khi tiến hành phát triển thì nên phát triển thành vào từng nhánh.
+Sau khi hoàn thành toàn bộ thì mới tiến hành merge code vào nhánh chính.
