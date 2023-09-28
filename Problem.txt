@@ -1,0 +1,7 @@
+Các vấn đề cần chú ý về bài toán tối ưu đường đi cho xe thu gom rác:
+- Các tham số về dung tích (dung tích thùng rác, dung tích xe rác), khoảng cách giữa xe rác với thùng rác, độ đầy thùng rác (tạo thành trọng số tác động đến thuật toán tối ưu đường đi)
+- Vị trí bắt đầu và kết thúc của xe rác (trùng hay không trùng)
+Câu hỏi:
+- Khi nào thì bắt đầu đi thu gom ?
+- Thu gom dựa theo tiêu chí nào (ưu tiên độ đầy hay ưu tiên khoảng cách gần xe chở rác nhất)?
+- Việc tạo ra đường đi tối ưu có nên thay đổi khi di chuyển của từng node thùng rác không ? Hay sẽ tiến hành xác định từ đầu rồi  mặc kệ các tham số thùng rác thay đổi ?
